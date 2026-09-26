@@ -1,9 +1,5 @@
 # Questões oficiais — Concorrência, Threads, Sincronização e Processos
 
-> Esta seção substitui integralmente o conjunto anterior de questões.
->
-> As questões abaixo são referências de provas reais. Para preservar a finalidade acadêmica do repositório, o material apresenta o contexto da questão, a referência original, o gabarito e uma resolução comentada. O enunciado integral deve ser consultado na fonte indicada.
-
 ---
 
 # 1. ENADE 2017 — Criação, execução e sincronização de duas threads
